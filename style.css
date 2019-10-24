@@ -1,0 +1,21 @@
+body{
+    background-color:#71c7ec;
+}
+
+input{
+    width:300px;
+    margin:10px;
+    padding:10px;
+}
+
+#main{
+	margin: auto;
+	width: 800px;
+	background-color:#107dac;
+	padding: 20px;
+	border: 1px solid #005073;
+}
+#content{
+	text-align:center;
+	font-family:tahoma;
+}
